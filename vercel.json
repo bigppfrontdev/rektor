@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
         {
-            "src": "./back.py",
+            "src": "back.py",
             "use": "@vercel/python"
         }
     ],
