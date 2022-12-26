@@ -2,6 +2,5 @@ Flask
 requests
 xmltodict
 urlopen
-json
 datetime
 simplejson
