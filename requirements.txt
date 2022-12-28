@@ -1,6 +1,8 @@
-Flask
+FLASK==2.0.1
+CORS
 requests
 xmltodict
 urlopen
 datetime
 simplejson
+flask_cors
